@@ -1,3 +1,6 @@
+# Deployed here
+[link](https://flappybird-kaboom.netlify.app/)
+
 # Folder structure
 
 - `src` - source code for your kaboom project
